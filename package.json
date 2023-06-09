@@ -5,6 +5,7 @@
     "dev": "turbo dev --no-cache --continue",
     "lint": "turbo lint",
     "clean": "turbo clean && rm -rf node_modules",
+    "test": "echo Hello world",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "changeset": "changeset",
     "version-packages": "changeset version",
