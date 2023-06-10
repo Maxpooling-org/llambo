@@ -11,5 +11,10 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maxpooling-org/llambo.git",
+    "directory": "packages/eslint-config-llambo"
   }
 }
